@@ -9,3 +9,5 @@
 *.log
 *.bat
 *.sh
+src_*.txt
+
