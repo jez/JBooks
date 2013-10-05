@@ -1,6 +1,0 @@
-"C:\\Users\\Jake\\Documents\\Java Projects\\JBooks\\zimmerman\\jacob\\moneybookv5\\Customer.java"
-"C:\\Users\\Jake\\Documents\\Java Projects\\JBooks\\zimmerman\\jacob\\moneybookv5\\MoneyBook.java"
-"C:\\Users\\Jake\\Documents\\Java Projects\\JBooks\\zimmerman\\jacob\\moneybookv5\\MoneyBookRunner.java"
-"C:\\Users\\Jake\\Documents\\Java Projects\\JBooks\\zimmerman\\jacob\\moneybookv5\\Transaction.java"
-"C:\\Users\\Jake\\Documents\\Java Projects\\JBooks\\zimmerman\\jacob\\moneybookv5\\TransactionPanel.java"
-"C:\\Users\\Jake\\Documents\\Java Projects\\JBooks\\zimmerman\\jacob\\moneybookv5\\XMLConverter.java"

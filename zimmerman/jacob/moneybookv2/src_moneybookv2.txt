@@ -1,4 +1,0 @@
-"L:\\Java Projects\\JBooks\\zimmerman\\jacob\\moneybookv2\\Customer.java"
-"L:\\Java Projects\\JBooks\\zimmerman\\jacob\\moneybookv2\\MoneyBook.java"
-"L:\\Java Projects\\JBooks\\zimmerman\\jacob\\moneybookv2\\MoneyBookRunner.java"
-"L:\\Java Projects\\JBooks\\zimmerman\\jacob\\moneybookv2\\Transaction.java"
