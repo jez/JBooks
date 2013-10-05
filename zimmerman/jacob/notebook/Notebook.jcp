@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>notebook</label>
+		<root_path>\</root_path>
+		<output_path>..\..\..\bin\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="NotebookRunner"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>NotebookRunner</run>
+			<verify>true</verify>
+		</runtime>
+		<runtime>
+			<label>NoBuildJustRun</label>
+			<application_ref>nobuild</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>NotebookRunner</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Notebook.java</path>
+			</fileitem>
+			<fileitem>
+				<path>NotebookRunner.java</path>
+			</fileitem>
+			<fileitem>
+				<path>TextFilter.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

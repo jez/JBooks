@@ -1,0 +1,3 @@
+"C:\\Users\\Jake\\Documents\\Java Projects\\JBooks\\zimmerman\\jacob\\notebook\\Notebook.java"
+"C:\\Users\\Jake\\Documents\\Java Projects\\JBooks\\zimmerman\\jacob\\notebook\\NotebookRunner.java"
+"C:\\Users\\Jake\\Documents\\Java Projects\\JBooks\\zimmerman\\jacob\\notebook\\TextFilter.java"

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>moneybookv10</label>
+		<root_path>\</root_path>
+		<output_path>..\..\..\bin\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref>JDK version 1.7.0_17</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="MoneyBookRunner"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>MoneyBookRunner</run>
+			<verify>true</verify>
+		</runtime>
+		<runtime>
+			<label>SplashScreen</label>
+			<application_ref>splash</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>MoneyBookRunner</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Customer.java</path>
+			</fileitem>
+			<fileitem>
+				<path>EType.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Expense.java</path>
+			</fileitem>
+			<fileitem>
+				<path>ExpenseList.java</path>
+			</fileitem>
+			<fileitem>
+				<path>ExpensePanel.java</path>
+			</fileitem>
+			<fileitem>
+				<path>MoneyBook.java</path>
+			</fileitem>
+			<fileitem>
+				<path>MoneyBookRunner.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Transaction.java</path>
+			</fileitem>
+			<fileitem>
+				<path>TransactionPanel.java</path>
+			</fileitem>
+			<fileitem>
+				<path>TType.java</path>
+			</fileitem>
+			<fileitem>
+				<path>XMLFileFilter.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
